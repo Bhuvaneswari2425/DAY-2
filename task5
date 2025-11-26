@@ -1,0 +1,7 @@
+# Function definition
+def greet(name):
+    """This function prints a greeting."""
+    print(f"Hello, {name}! Welcome to Python.")
+
+# Function call
+greet("Alice")
